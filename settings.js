@@ -48,7 +48,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94713186823']
-global.ownertag = '+94713186822' //your tag number
+global.ownertag = '+94713186823' //your tag number
 global.botname = 'Nairoby bot' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
